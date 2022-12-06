@@ -12,12 +12,16 @@ alias ls='lsd'
 alias la='ls -a'
 alias lla='ls -la'
 alias lt='ls --tree'
+
 # cat -> bat
 alias cat='batcat' 
+
 # python -> python3
 alias python='python3'
+
 # top -> bashtop
 alias top='bashtop'
+
 # navigation
 alias cddo='cd ~/Downloads/' 
 
