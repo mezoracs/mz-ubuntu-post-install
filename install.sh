@@ -110,7 +110,7 @@ cp -R ./mz_cursor/ ~/.icons
 sudo cp -r ~/mz-ubuntu-post-install/assets/fonts/*/*.ttf /usr/share/fonts 
 sudo apt install fonts-firacode -y
 # scaling factor (normal: 1)
-gsettings set org.gnome.desktop.interface text-scaling-factor .7
+gsettings set org.gnome.desktop.interface text-scaling-factor .9
 
 
 # --------------------------------------------------// clean seaction //--------------------------------------------- #
