@@ -1,4 +1,4 @@
-# //==========// update
+# //==========// system upgrade
 # update packages
 sudo apt update && sudo apt upgrade -y;
 # dependencies
